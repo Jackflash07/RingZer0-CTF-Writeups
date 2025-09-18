@@ -1,2 +1,3 @@
 # RingZer0-CTF-Writeups
-Write ups of RingZer0 CTF solutions, with explainations. All CTF challenges are undertaken on Macos, therefore macos tools will mainly be discussed, if linux is required VMware with a Kali install will be used.
+https://ringzer0ctf.com/challenges
+Write ups of RingZer0 CTF solutions, with explainations. Macos and Kali are used, Will indicate if I switch between them.
