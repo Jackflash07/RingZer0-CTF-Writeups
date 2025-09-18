@@ -1,5 +1,5 @@
 ## Meat Loaf - Ekse
-#Given Information 
+# Given Information 
 The following is the information given in the challenge:
 
 _RingZer0 Team delicious meat loaf.
