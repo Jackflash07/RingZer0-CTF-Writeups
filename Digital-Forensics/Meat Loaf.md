@@ -1,5 +1,5 @@
-## Meat Loaf - Ekse
-# Given Information 
+# Meat Loaf - Ekse
+## Given Information 
 The following is the information given in the challenge:
 
 _RingZer0 Team delicious meat loaf.
@@ -57,7 +57,7 @@ Liquefy contents of the mixing bowl.
 Pour contents of the mixing bowl into the baking dish.
 Refrigerate for 3 hours._
 
-# Solution
+## Solution
 This one stumped me initally, and from the looks of it many others did too (as of writing 490 people have solved it)
 
 I initally thought that it could be a cipher of some sorts. Looking at it further I thought that it could have been a form of esoteric programming language,as I had done a little bit of research on the topic when I was younger.
